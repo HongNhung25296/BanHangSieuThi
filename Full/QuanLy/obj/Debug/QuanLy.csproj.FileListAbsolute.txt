@@ -1,0 +1,35 @@
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\bin\Debug\QuanLy.exe.config
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.exe
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.pdb
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.CamOn.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.CTHD.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.HoaDon.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.HuongDan.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.LoaiHang.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.Login.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.Main.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.MatHang.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.NhanVien.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.TacGia.resources
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\bin\Debug\QuanLy.exe
+C:\Users\Hoang Minh\Desktop\New folder\Bao cao cua cac nhom\Bao cao cua cac nhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\bin\Debug\QuanLy.pdb
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\bin\Debug\QuanLy.exe.config
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.exe
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.pdb
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\bin\Debug\QuanLy.exe
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\bin\Debug\QuanLy.pdb
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.CamOn.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.CTHD.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.HoaDon.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.HuongDan.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.LoaiHang.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.Login.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.Main.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.MatHang.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.NhanVien.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.TacGia.resources
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+C:\Users\Hong Nhung\Documents\ThucTapNhom\Nhom II -06CT3-Quan ly sieu thi\Final_OK\QuanLy\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
